@@ -14,12 +14,16 @@
 
 ## 💻 Tecnologías Utilizadas
 
-Para resolver y cumplir con los requerimientos de esta práctica autónoma y de experimentación (APE), se diseñaron e implementaron soluciones utilizando lógica algorítmica, programación modular y orientada a objetos enfocada en el manejo de persistencia de datos (.txt):
+Para resolver y cumplir con los requerimientos de esta práctica autónoma y de experimentación (APE), se implementó el sistema utilizando programación modular y orientada a objetos en los entornos y lenguajes fundamentales:
 
-* 📐 **PSeInt** (Diseño de lógica y pseudocódigo previo)
-* 📝 **Visual Studio Code** (Entorno de Desarrollo Integrado - IDE)
-* 🔵 **C++** (Estructuras de datos y manipulación de ficheros)
-* ☕ **JAVA** (Clases, objetos y flujos de I/O de archivos)
+<table>
+  <tr>
+    <td><kbd>📐 PSeInt</kbd></td>
+    <td><kbd>📝 Visual Studio Code</kbd></td>
+    <td><a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /></a></td>
+    <td><a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a></td>
+  </tr>
+</table>
 
 ---
 
@@ -29,7 +33,7 @@ El proyecto consiste en desarrollar una serie de soluciones académicas estructu
 
 ### 📋 Ejercicios Desarrollados y Requerimientos:
 
-| Ejercicio | Componentes Principales | Requerimientos Técnico | Archivo Generado |
+| Ejercicio | Componentes Principales | Requerimientos Técnicos | Archivo Generado |
 | :--- | :--- | :--- | :--- |
 | **1. Registro de Estudiantes** | Clases, Objetos, Métodos y Escritura | Almacenar cédula, nombre, carrera y promedio. | `estudiantes.txt` |
 | **2. Lectura de Estudiantes** | Lectura, Ciclos, Arreglos y Métodos | Mostrar registros, contar registros y calcular promedio general. | *(Lectura)* |
