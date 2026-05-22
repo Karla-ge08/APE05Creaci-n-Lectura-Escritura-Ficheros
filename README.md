@@ -4,7 +4,7 @@
 
 ## 📌 Información General
 
-* **Estudiante:** Andrade Hugo, Dominguez Daniel, Gualle abisag, Guanga Sebastian, Guanotoa Karla
+* **Estudiante:** Andrade Hugo, Dominguez Daniel, Gualle Abisag, Guanga Sebastian, Guanotoa Karla
 * **Asignatura:** Algoritmos y Lógica de Programación
 * **Docente:** Ing. José Ruben Caiza
 * **Ciclo Académico:** Enero 2026 - Julio 2026
