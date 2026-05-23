@@ -1,0 +1,5 @@
+Cédula   : 1203131231
+Nombre   : Hugo
+Carrera  : Software
+Promedio : 10.0
+------------------------------

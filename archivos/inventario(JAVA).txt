@@ -1,0 +1,6 @@
+
+Código   : 1232
+Nombre   : Yogurt
+Cantidad : 120
+Precio   : 3.0
+------------------------------

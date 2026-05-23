@@ -1,0 +1,4 @@
+Cédula  : 1203131222
+Nombre  : Kevin
+Carrera : Ingenieria industrial
+------------------------------

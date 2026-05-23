@@ -1,0 +1,5 @@
+Producto : Jabon
+Cantidad : 3
+Precio   : 2.0
+Total    : 6.0
+------------------------------

@@ -1,0 +1,7 @@
+Nombre   : Hugo
+Nota 1   : 10.0
+Nota 2   : 9.0
+Nota 3   : 9.0
+Promedio : 9.333333333333334
+Estado   : Aprobado
+------------------------------
